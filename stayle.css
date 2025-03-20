@@ -1,0 +1,178 @@
+body {
+    background-color: black;
+    color: bisque;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    flex-wrap: wrap;
+}
+
+.sectionOne {
+    margin-right: 5000px;
+    padding-top: -300px;
+}
+
+
+
+.buttonO {
+    background-color: rgb(39, 38, 38);
+    color: azure;
+    width: 150px;
+    height: 50px;
+    border: 2px solid rgb(239, 25, 25);
+    margin-bottom: 50px;
+}
+
+main {
+    background-color: aliceblue;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+
+.salom {
+    margin-top: 20px;
+    background-color: rgb(223, 223, 223);
+    width: 400px;
+    box-shadow: 5px 5px 5px 10px rgba(120, 120, 120, 0.493);
+
+}
+
+.salom:hover {
+    box-shadow: 5px 5px 5px 10px rgb(72, 59, 81);
+}
+
+.salom1 {
+    margin-top: 20px;
+    background-color: rgb(223, 223, 223);
+    width: 400px;
+    box-shadow: 5px 5px 5px 10px rgba(120, 120, 120, 0.493);
+
+}
+
+.salom1:hover {
+    box-shadow: 5px 5px 5px 10px rgb(72, 59, 81);
+}
+
+.salom2 {
+    margin-top: 20px;
+    background-color: rgb(223, 223, 223);
+    width: 400px;
+    box-shadow: 5px 5px 5px 10px rgba(120, 120, 120, 0.493);
+
+}
+
+.salom2:hover {
+    box-shadow: 5px 5px 5px 10px rgb(72, 59, 81);
+}
+
+
+.Red {
+    background-color: red;
+    color: white;
+    padding: 30px;
+    width: 200px;
+}
+
+.RedBlue {
+    background-color: blue;
+    color: white;
+    padding: 30px;
+    width: 200px;
+}
+
+.RedBlueGrey {
+    background-color: blue grey;
+    color: white;
+    padding: 30px;
+    width: 200px;
+}
+
+.RedTeal {
+    background-color: teal;
+    color: white;
+    padding: 30px;
+    width: 200px;
+}
+
+.Yellow {
+    background-color: yellow;
+    color: rgb(0, 0, 0);
+    padding: 30px;
+    width: 200px;
+}
+
+.RedOrange {
+    background-color: orange;
+    color: rgb(87, 82, 82);
+    padding: 30px;
+    width: 200px;
+}
+
+.none {
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+    padding-left: 50px;
+    background-color: aliceblue;
+    flex-wrap: wrap;
+}
+
+.RedBlueGrey {
+    background-color: orange;
+    color: white;
+    padding: 30px;
+}
+
+.sijey {
+    text-align: center;
+    justify-content: center;
+}
+
+.clases {
+    margin-left: 20px;
+    background-color: blue;
+    justify-content: end;
+    width: 500px;
+    text-align: start;
+    padding: 10px;
+}
+
+.kit {
+    border: 2px solid rgb(195, 0, 255);
+    padding: 10px;
+    background-color: rgb(155, 155, 155);
+    width: 500px;
+    text-align: start;
+}
+
+.faun {
+    display: flex;
+    justify-content: center;
+}
+
+
+.window {
+    display: flex;
+    justify-content: center;
+}
+
+.clasesust {
+    margin-left: 20px;
+    background-color: rgb(0, 156, 60);
+    justify-content: end;
+    width: 500px;
+    text-align: start;
+    padding: 10px;
+}
+
+.kitKat {
+    padding: 10px;
+    background-color: rgb(255, 189, 75);
+    width: 500px;
+    text-align: start;
+    justify-content: space-between;
+}
